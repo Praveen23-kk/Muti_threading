@@ -109,8 +109,8 @@ The most demanding script. Computes factorials of large numbers (5000–8000) in
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Praveen23-kk/Muti_threading.git
+cd Muti_threading
 ```
 
 **2. Install dependencies**
